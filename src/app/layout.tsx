@@ -79,14 +79,14 @@ export default function RootLayout({
         />
 
         {/* Google Tag */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17581148048"></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17598284687"></script>
         <script
           dangerouslySetInnerHTML={{
             __html: `
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'AW-17581148048');
+              gtag('config', 'AW-17598284687');
             `,
           }}
         />
