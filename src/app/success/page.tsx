@@ -45,7 +45,7 @@ export default function SuccessPage() {
         // Google Ads
         if (window.gtag) {
           window.gtag('event', 'conversion', {
-            send_to: 'AW-17448187029/b-gvCKmw5YEbEJXp-P9A',
+            send_to: 'AW-17581148048/zy8JCJW_k6EbEJCPrL9B',
             value: paymentData.numericAmount,
             currency: 'BRL',
             transaction_id: paymentData.external_id,
