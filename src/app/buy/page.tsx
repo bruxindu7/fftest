@@ -250,7 +250,7 @@ const BuyPage = () => {
 
       if (typeof window !== 'undefined' && window.gtag) {
         window.gtag('event', 'conversion', {
-          'send_to': 'AW-17581148048/zy8JCJW_k6EbEJCPrL9B',
+          'send_to': 'AW-17598284687/RkFBCOSZraEbEI-HwsdB',
           'value': paymentData?.numericAmount,
           'currency': 'BRL',
           'transaction_id': paymentData?.external_id,
